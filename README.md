@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwatobiloba
 - 👀 I’m interested in contibuting and developing the tech space
-- 🌱 I’m currently learning the python language
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on any projects I can help with
 - 📫 You can reach me @ oluwatobilobafred@gmail.com or via whatsapp-07047054990
 
